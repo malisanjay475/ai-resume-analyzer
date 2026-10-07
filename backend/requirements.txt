@@ -1,0 +1,8 @@
+flask>=3.0
+flask-cors>=4.0
+pdfplumber>=0.11
+scikit-learn>=1.4
+spacy>=3.7
+# for running the tests
+pytest>=8.0
+reportlab>=4.0
