@@ -1,0 +1,16 @@
+Junior Python Developer (Fresher)
+
+We are looking for a Junior Python Developer to join our product team.
+
+Responsibilities:
+- Build and maintain backend services using Python and Flask or Django.
+- Design REST API endpoints and integrate them with a React frontend.
+- Write efficient SQL queries for MySQL or PostgreSQL databases.
+- Write unit tests and take part in code reviews using Git and GitHub.
+- Deploy services with Docker on AWS.
+
+Requirements:
+- Strong knowledge of Python, data structures and OOP.
+- Familiarity with HTML, CSS and JavaScript.
+- Understanding of Agile development.
+- Good communication and teamwork skills.
